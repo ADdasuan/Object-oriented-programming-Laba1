@@ -56,7 +56,3 @@
 - Использование **библиотеки ranges** (аналог list comprehension в Python / stream в Java).
 - Алгоритмы над множествами (constraints).
 - Для нестандартных задач – `std::generator`.
-
----
-
-## 🧩 Структура проекта (CMake)
