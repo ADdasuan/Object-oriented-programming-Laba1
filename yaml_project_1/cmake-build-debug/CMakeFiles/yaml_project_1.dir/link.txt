@@ -1,0 +1,3 @@
+C:\Users\Chesn\AppData\Local\Programs\CLion\bin\cmake\win\x64\bin\cmake.exe -E rm -f CMakeFiles\yaml_project_1.dir/objects.a
+C:\Users\Chesn\AppData\Local\Programs\CLion\bin\mingw\bin\ar.exe qc CMakeFiles\yaml_project_1.dir/objects.a @CMakeFiles\yaml_project_1.dir\objects1.rsp
+C:\Users\Chesn\AppData\Local\Programs\CLion\bin\mingw\bin\g++.exe  -Wall -Wextra -Werror -g -Wl,--whole-archive CMakeFiles\yaml_project_1.dir/objects.a -Wl,--no-whole-archive -o yaml_project_1.exe -Wl,--out-implib,libyaml_project_1.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\yaml_project_1.dir\linkLibs.rsp

@@ -1,0 +1,3 @@
+C:/Users/Chesn/CLionProjects/yaml_project_1/cmake-build-debug/CMakeFiles/yaml_project_1.dir
+C:/Users/Chesn/CLionProjects/yaml_project_1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Chesn/CLionProjects/yaml_project_1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
